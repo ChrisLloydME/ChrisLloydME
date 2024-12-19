@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I’m Christopher Lloyd 👋
 
-<!--
-**ChrisLloydME/ChrisLloydME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a university student who enjoys coding and exploring how technology can make life easier. Most of my current projects involve learning new things and experimenting with ideas, especially in app development for Apple devices.
 
-Here are some ideas to get you started:
+### 🛠 What I Like
+	•	Writing apps in Swift and SwiftUI
+	•	Creating simple, functional designs
+	•	Trying out new tools and frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I’m Working On
+	•	A personal project inspired by Twitter, focusing on offline use and privacy.
+
+### 📚 About Me
+	•	I’m just getting started in the world of development, and there’s so much to learn!
+	•	I enjoy working on projects that are meaningful to me and make me feel accomplished.
+
+Feel free to check out my repositories—most of them are small projects or experiments, but I’m proud of every step I take. 😊
